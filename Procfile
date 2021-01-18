@@ -1,1 +1,1 @@
-web: gunicorn ComicsReader.wsgi --log-file -
+web: gunicorn ComicsReader:app
