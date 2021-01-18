@@ -1,1 +1,1 @@
-web: gunicorn ComicsReader:app
+web: python manage.py runserver
