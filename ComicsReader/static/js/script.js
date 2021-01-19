@@ -22,11 +22,14 @@ function sizeChange() {
     let size = document.getElementsByClassName('size-option')[0];
     let scale;
     switch(size.value) {
+        case '25%':
+            scale = 0.25;
+            break;
         case '50%':
-            scale = 0.5
+            scale = 0.5;
             break;
         case '75%':
-            scale = 0.75
+            scale = 0.75;
             break;
         case '100%':
             scale = 1;

@@ -89,6 +89,8 @@ table {
     border-radius: 15px;
     color: white;
     outline: none;
+    box-shadow: inset 0px 0px 10px 10px  #0000001f;
+
 }
 
 .search-text:focus {
