@@ -26,7 +26,7 @@ SECRET_KEY = 'v$r6hxy!g4zez77)3uzq6bke7bb%h0^5)7-+18por*zyrxyguc'
 DEBUG = True
 
 ALLOWED_HOSTS = [
-    'herokudjangoapp.herokuapp.com'
+    'dia-homework.herokuapp.com'
 ]
 
 
